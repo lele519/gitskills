@@ -1,3 +1,3 @@
-Creating a new branch is 
+Git is a free software
 quick and simple.
 dfadsfadsf
